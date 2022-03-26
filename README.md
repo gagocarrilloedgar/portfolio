@@ -1,5 +1,5 @@
 # Edgar's portflio
-![edgar](/public/static/images/linkedin-sharing.png)
+![edgar](/public/static/images/linkedin-share.png)
 
 ## Features
 
