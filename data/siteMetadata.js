@@ -6,17 +6,16 @@ const siteMetadata = {
     "👋  Hey welcome to my journey. Here you'll find my code snippets, my thoughts, and my tech journey.",
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://nuwe.io/blog',
-  siteRepo: 'https://github.com/nuwe-io/blog',
+  siteUrl: 'https://itsedgar.vercel.app',
+  siteRepo: 'https://github.com/gagocarrilloedgar/portfolio',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/edgar.png',
   socialBanner: '/static/images/twitter-card.png',
   linkedinBanner: '/static/images/linkedin-share.png',
-  email: 'hello@nuwe.io',
-  github: 'https://github.com/nuwe-io',
-  twitter: 'https://twitter.com/NuweIo',
-  instagram: 'https://instagram.com/nuwe.io',
-  linkedin: 'https://www.linkedin.com/company/nuweio',
+  email: 'edgar@nuwe.io',
+  github: 'https://github.com/gagocarrilloedgar',
+  twitter: 'https://twitter.com/edgar_md',
+  linkedin: 'https://www.linkedin.com/company/edgargagocarrillo',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
