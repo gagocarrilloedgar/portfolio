@@ -3,7 +3,6 @@ import headerNavLinks from '@/data/headerNavLinks'
 import Logo from '@/data/logo.svg'
 import Link from './Link'
 import SectionContainer from './SectionContainer'
-import MobileNav from './MobileNav'
 import Footer from './CustomFooter.js'
 import Header from './Header'
 
