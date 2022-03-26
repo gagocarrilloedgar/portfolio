@@ -16,10 +16,10 @@ export async function getStaticPaths() {
   return {
     paths: Object.keys(tags).map((tag) => ({
       params: {
-        tag,
-      },
+        tag
+      }
     })),
-    fallback: false,
+    fallback: false
   }
 }
 

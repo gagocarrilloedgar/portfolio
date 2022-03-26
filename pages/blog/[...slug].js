@@ -11,10 +11,10 @@ export async function getStaticPaths() {
   return {
     paths: posts.map((p) => ({
       params: {
-        slug: formatSlug(p).split('/'),
-      },
+        slug: formatSlug(p).split('/')
+      }
     })),
-    fallback: false,
+    fallback: false
   }
 }
 
