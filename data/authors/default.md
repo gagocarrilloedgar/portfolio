@@ -11,12 +11,12 @@ github: https://github.com/gagocarilloedgar
 
 # A bit about me
 
-Hey! My name is Edgar, I'm an Aerospace engineer and MBA with that moved to software engineering 👨‍💻. 
+Hey! My name is Edgar, I'm an Aerospace engineer and MBA with that quickly moved to software engineering 👨‍💻. 
 
-I have over +5 years of  professional software and teaching experience. I've worked with serveral front and back technologies and also DevOp ones such as:
-React, Vue, Node, Nest, AWS or Docker.
+I have over +5 years of  professional software and teaching experience. I've worked with serveral front-end and back-end technologies and also DevOps and Cloud ones such as:
+React, Vue, Node, Nest,Next, AWS, Azure or Docker.
 
-I enjoy my free time trying out new technologies, watching films, listening to good music and travaling and eating out on new restaurants 🤩.
+I enjoy my free time trying out new technologies, watching films, listening to good music, traveling and cooking🤩.
 
 # Timeline
 
@@ -43,6 +43,7 @@ I enjoy my free time trying out new technologies, watching films, listening to g
 - Joined the [Empren UPC Team](https://www.upc.edu/emprenupc/ca) as Junior Manager
 - Started learning **Flutter**
 - C1-Level | TOEIC Certification
+- Started learning **Figma** and **UX-UI**
 
 
 ## 2019

@@ -10,7 +10,7 @@ import ThemeSwitch from './ThemeSwitch'
 const LayoutWrapper = ({ children }) => {
   return (
     <SectionContainer>
-      <header className="sticky top-0 z-50 flex items-center justify-between bg-gray-900 py-10">
+      <header className="sticky top-0 z-50 flex items-center justify-between bg-white py-10 dark:bg-gray-900">
         <div>
           <Link href="/" aria-label={siteMetadata.headerTitle}>
             <div className="flex items-center justify-between">

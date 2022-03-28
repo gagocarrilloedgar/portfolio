@@ -18,8 +18,8 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
   return (
     <>
       <div className="divide-y">
-        <div className="top-20 space-y-2 bg-gray-900 pt-6 pb-8 md:space-y-5 xl:sticky">
-          <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
+        <div className="top-20 space-y-2 bg-white pt-6 pb-8 dark:bg-gray-900 md:space-y-5 xl:sticky">
+          <h1 className=" text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
             {title}
           </h1>
           <div className="relative max-w-lg">
