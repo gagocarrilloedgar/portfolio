@@ -1,45 +1,47 @@
 ---
-title: Perfil de Github estilo pro
+title: Github pro style profile
 date: 2021-01-08
 tags: [github, profile, portfolio, markdown]
 draft: false
-summary: Configura tu perfil de github para que sea tu mejor portfolio
+summary: Set up your github profile to be your best portfolio
 authors: [default]
 ---
 
-# Perfil de Github estilo pro
+# Github pro style profile
 
-Durante el año 2021 github sacó varias funcionalidades “ocultas” que no todos los usuarios conocen y hacen que tu perfil se vea muy bien.
+> This blog post is under construction and will be be ready soon
 
-Una de estas funcionalidades es la de añadir un _README.md_ especial en tu repositorio que hace que se vea antes que anda en tu perfil y sirva de carta de presentación.
+During the year 2021 github released several "hidden" features that not all users know about and make your profile look great.
 
-Añadir este archivo no es nada difícil y hace que tu perfil pueda tener un estilo parecido al siguiente:
+One of these features is to add a special _README.md_ in your repository that makes it appear before it goes on your profile and serves as a cover letter.
 
-![Imagen de mi perfil](/static/images/posts/github-readme/image.png)
+Adding this file is not difficult at all and makes your profile look like the following:
 
-Para conseguir añadir un README.md con estilo con el anterior sólo tenéis que seguir los siguientes pasos:
+![My profile image](/static/images/posts/github-readme/image.png)
 
-1. Ir al botón de + de vuestro perfil y seleccionar crear un nuevo repositorio:
+To be able to add a README.md with style with the previous one, you just have to follow the following steps:
 
-Una vez esteis en el proceso de creación de vuestro nuevo repositorio tenéis que:
+1. Go to the + button of your profile and select create a new repository:
 
-2. Añadir por defecto un README.md y definir el nombre de vuestro nuevo repositorio con el mismo nombre que vuestro usuario de github:
+Once you are in the process of creating your new repository you have to:
 
-![Configuración del README.md del perfil de Github](/static/images/posts/github-readme/image.png)
+2. Add a default README.md and define the name of your new repository with the same name as your github user:
 
-Cómo podéis ver se desbloqueará el special repository. Una vez creado simplemente tenéis que personalizar el README.md cómo más os guste.
+![Github profile README.md settings](/static/images/posts/github-readme/image.png)
 
-Tened en cuenta que podéis utilizar sintaxis de HTML para darle un estilo mas personal y bonito.
+As you can see, the special repository will be unlocked. Once created, you simply have to customize the README.md as you like.
 
-Os dejo por aquí mi perfil para que cojáis ideas!
+Keep in mind that you can use HTML syntax to give it a more personal and beautiful style.
 
-Perfil de github: [@gagocarrilloedgar](https://github.com/gagocarrilloedgar/gagocarrilloedgar)
+I leave you here my profile so you can get ideas!
 
-Y además una lista de páginas útiles para personalizar el readme utilizando markdown:
+GitHub Profile: [@gagocarrilloedgar](https://github.com/gagocarrilloedgar/gagocarrilloedgar)
 
-- [Sintáxis básica de markdown](https://markdown.es/sintaxis-markdown)
-- [Lista de readme de perfiles personalizdos TOP](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+And also a list of useful pages to customize the readme using markdown:
+
+- [Basic markdown syntax](https://markdown.es/markdown-syntax)
+- [TOP custom profile readme list](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
 ---
 
-Espero que os haya servido y si teneís alguna duda podéis preguntarme cualquier duda
+I hope it has served you and if you have any doubts you can ask me anything

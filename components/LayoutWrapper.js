@@ -10,7 +10,7 @@ import ThemeSwitch from './ThemeSwitch'
 const LayoutWrapper = ({ children }) => {
   return (
     <SectionContainer>
-      <header className="flex items-center justify-between py-10">
+      <header className="sticky top-0 z-50 flex items-center justify-between bg-gray-900 py-10">
         <div>
           <Link href="/" aria-label={siteMetadata.headerTitle}>
             <div className="flex items-center justify-between">
@@ -43,7 +43,7 @@ const LayoutWrapper = ({ children }) => {
           <MobileNav />
         </div>
       </header>
-      ƒ<main className="mb-auto">{children}</main>
+      <main className="relative mb-auto">{children}</main>
       <Footer />
     </SectionContainer>
   )

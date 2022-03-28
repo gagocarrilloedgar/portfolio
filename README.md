@@ -20,6 +20,7 @@
 - Preconfigured security headers
 - SEO friendly with RSS feed, sitemaps and more!
 - [Vercel deploy](https://vercel.com)
+- Translatinos with [next-translate]()
 
 
 

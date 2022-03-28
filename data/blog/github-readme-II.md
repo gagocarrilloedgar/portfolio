@@ -1,58 +1,60 @@
 ---
-title: Personaliza tu github II
+title: Customize your Github profile II
 date: 2021-01-11
 tags: [github, profile, portfolio, markdown]
 draft: false
-summary: Fija tus mejores proyectos en la pagina inicial de tu github
+summary: Pin your best open source projects to your github home page
 authors: [default]
 ---
 
-# Personaliza tu Github | Parte 2
+# Customize your Github | Part 2
 
-Siguiendo el hilo del post [Personaliza tu Github estilo pro](/blog/github-readme) en este expico brevemente como acabar de definir tu perfil para que sea más interesante de cada a posibles oportunidades profesionales.
+> This blog post is under construction and will be be ready soon
 
-Github permite fijar 6 repositorios principales en tu perfil de incio / portada o como quieras llamarlo.Aunque tengas más de 6 repositorios estos no siempre te parecen, es más seguramente sino lo has configurado es posible que no salga ninguno.
+Following the thread of the post [Customize your Github pro style](/blog/github-readme) in this I briefly explain how to finish defining your profile to make it more interesting for each possible professional opportunity.
 
-Si hacemos scroll dow una vez estamos en un repositorio de Github llegaremos a las sección de los repositorio destacados del perfil:
+Github allows you to set 6 main repositories in your home / front page profile or whatever you want to call it. Even if you have more than 6 repositories, these do not always seem to you, it is more likely that if you have not configured it, it is possible that none will appear.
 
-![Mis repositorios](/static/images/posts/github-readme-II/logo.png)
+If we scroll down once we are in a Github repository, we will reach the featured repository section of the profile:
 
-Repositorios dijados de: gagocarrilloedgarLa foto anterior que veis es mi perfil de Github y lo encontrareis si haceis scroill-down un poco. Si estaís en vuestro perfil y veis esta sección vacía o sólo con algunos de vuestros repositorios, simplemente tenéis que picnhar en la botón derecho que pone **Customize your pings:**
+![My repositories](/static/images/posts/github-readme-II/logo.png)
 
-![Botón de personalización de los repositorios fijados](/static/images/posts/github-readme-II/logo.png)
+Repositories said by: gagocarrilloedgar The previous photo you see is my Github profile and you will find it if you scroll down a bit. If you are in your profile and you see this section empty or only with some of your repositories, you simply have to click on the right button that says **Customize your pings:**
 
-Botón de personalización de los repositorios fijaosUna vez dentro vereis una lista de repositorios, tal que así:
+![Pinned repositories customization button](/static/images/posts/github-readme-II/logo.png)
 
-![Lista de repositorios](/static/images/posts/github-readme-II/logo.png)
+Repository customization button, look once inside you will see a list of repositories, like this:
 
-Lista de repositoriosSimplemente escoged que repositorios queréis que aparezcan en vuestra pestañana principal y listo.
+![List of repositories](/static/images/posts/github-readme-II/logo.png)
+
+Repository listSimply choose which repositories you want to appear on your main tab and you're good to go.
 
 ---
 
-### Configuración de la tarjeta de repositorio
+### Repository Card Configuration
 
-Es possible que además de no tener todos los repositorios, algunos de ellos no esten completos al 100%. Tener una pequeña descripción además del título del repositorio es importante, sobre todo si estaás abierto a nuevas oportunidades y quires que sea tu portfolio principal.
+It is possible that in addition to not having all the repositories, some of them are not 100% complete. Having a small description in addition to the title of the repository is important, especially if you are open to new opportunities and want it to be your main portfolio.
 
-Para configurar cada uno de los repositorios que tienes, solo tienes que ir a ellos y fijarte en el About que hay arriba a la derecha. Pincha en el botón de ajustes para poder empezar a editar su about:
+To configure each of the repositories you have, you just have to go to them and look at the About at the top right. Click on the settings button to start editing your about:
 
-![Configuración de un repositorio](/static/images/posts/github-readme-II/logo.png)
+![Setting up a repository](/static/images/posts/github-readme-II/logo.png)
 
-Configuraicón de un repositorioUna vez dentro vereis una cosa parecida a la siguiente:
+Configuration of a repositoryOnce inside you will see something similar to the following:
 
-![About del proyecto nuwe](/static/images/posts/github-readme-II/logo.png)
+![About nuwe project](/static/images/posts/github-readme-II/logo.png)
 
-About del proyecto nuweUna vez en el about podréis editar todo lo que se ve en la fotografía anterior. Los topic y el perfil no aparecen en la tarjeta principal pero simepre va bien etiquetar el proyecto.
+About the nuwe projectOnce in the about you can edit everything you see in the previous photograph. The topic and the profile do not appear on the main card but it is always good to tag the project.
 
-Los dos puntos de tu repositorio que se ven el perfil son:
+The two points of your repository that are seen in the profile are:
 
-- El nombre del repositorio
-- La descripción que le des en el about
-- El lenguaje principal del repositorio
+- The name of the repository
+- The description you give in the about
+- The main language of the repository
 
-Aunque parezca una tonteria, si una persona está revisando tu perfil es muy probable que lo primero que vea sean los repositorios que tienes fijados.
+Although it may seem silly, if a person is reviewing your profile, it is very likely that the first thing they see will be the repositories that you have pinned.
 
-Sí, tienes espcial cariño a algún repositorio o simplemetne quieres descatar tus mejores proyectos, fijarlos en tu perfil es una buena forma de hacerlo.
+Yes, you have a special affection for a repository or you simply want to highlight your best projects, posting them on your profile is a good way to do it.
 
-Espero que os haya servido y si teneís alguna duda podéis encontrarme y preguntarme en mi perfil de LinkedIn:
+I hope it has been useful to you and if you have any questions you can find me and ask me on my LinkedIn profile:
 
 > https://es.linkedin.com/in/edgargagocarrillo
