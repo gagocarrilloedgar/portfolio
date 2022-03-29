@@ -30,12 +30,11 @@ I enjoy my free time trying out new technologies, watching films, listening to g
 
 - I was awared as Entrepreneur advisor by  [Netmentora Catalonia](https://netmentoracatalunya.org)
 - Developed my first micro-front-end architecture for [nuwe.io](nuwe.io), so far it's working amazing.
-- Released my open source projects []() and []()
+- Launched two open source projects.
 - Started leading a +4 software developers team.
 - Awared as a [NovaTalent](https://www.novatalent.com) member
-- Co-founded [nuwe.io](nuwe.io), raises 115K€.
+- Co-founded [nuwe.io](nuwe.io), raised 115K€.
 - Took the[ Epic React](https://epicreact.dev) course from Kent. C. Dodds
-- Started doing product consulting for small startups.
 - Started learning **Typescript** and working full time with it and **AWS** 
 
 
@@ -47,7 +46,7 @@ I enjoy my free time trying out new technologies, watching films, listening to g
 
 
 ## 2019
-- Developer several freelance projects for startups such as: [Nodem](https://www.linkedin.com/company/nodem-security/)
+- Started doing full-stack end to end freelance projects for startups and entreprises such as: [Nodem](https://www.linkedin.com/company/nodem-security/)
 - Joined [Twistechnology](http://twistechnology.com) as a Software industrial enginer (in charge of the I+D team mixing mechanical and software engineering)
 - Machine Learning certification by [Coursera](https://www.coursera.org/browse/data-science/machine-learning)
 - Schoolarship (fully-funded) to take the MBA by [Quantic School os Business and Technology](https://quantic.edu)
