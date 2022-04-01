@@ -1,6 +1,6 @@
+import siteMetadata from '@/data/siteMetadata'
 import Head from 'next/head'
 import { useRouter } from 'next/router'
-import siteMetadata from '@/data/siteMetadata'
 
 const CommonSEO = ({ title, description, ogType, ogImage, twImage, canonicalUrl }) => {
   const router = useRouter()
@@ -132,7 +132,8 @@ export const BlogSEO = ({
     description: summary
   }
 
-  const twImageUrl = featuredImages[0].url
+  const ogImageUrl = siteMetadata.siteUrl + siteMetadata.linkedinBanner
+  const twImageUrl = siteMetadata.siteUrl + siteMetadata.socialBanner
 
   return (
     <>
@@ -140,7 +141,7 @@ export const BlogSEO = ({
         title={title}
         description={summary}
         ogType="article"
-        ogImage={featuredImages}
+        ogImage={ogImageUrl}
         twImage={twImageUrl}
         canonicalUrl={canonicalUrl}
       />
