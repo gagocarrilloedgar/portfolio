@@ -59,7 +59,7 @@ npm uninstall husky
 #or
 yarn remove husky
 # Remove node_modules
-git rm -rf node_modules
+rm -rf node_modules
 # Install packages again to have a fresh start
 npm i
 #or
