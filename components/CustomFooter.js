@@ -44,12 +44,6 @@ export default function Footer() {
             <p className="text-sm font-bold">Showcase</p>
             <Link
               className="text-sm hover:text-primary-600 dark:hover:text-primary-400"
-              href="/snippets"
-            >
-              Snippets
-            </Link>
-            <Link
-              className="text-sm hover:text-primary-600 dark:hover:text-primary-400"
               href="https://factorialhr.com/"
             >
               FactorialHR
