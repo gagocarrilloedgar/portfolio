@@ -22,11 +22,59 @@ const projectsData = [
     href: 'https://nuwe.io'
   },
   {
+    title: 'Joia, multi model ChatGPT for Teams',
+    description: 'The ChatGPT Team alternative that talks to any Large Language Model.',
+    technologies: [
+      'NextJS',
+      'Typescript',
+      'Vercel',
+      'AWS',
+      'Docker',
+      'Jest',
+      'Git',
+      'Node.js',
+      'TRPC',
+      'Prisma',
+      'PostgreSQL',
+      'React',
+      'OpenAI',
+      'OpenRouter'
+    ],
+    href: 'https://joia.io/'
+  },
+  {
+    title: 'Yume, a simply & collaborative wishlist',
+    technologies: [
+      'NextJS',
+      'Typescript',
+      'Vercel',
+      'SCSS',
+      'Storybook',
+      'Git',
+      'TRPC',
+      'Prisma',
+      'PostgreSQL',
+      'React',
+      'SWR'
+    ],
+    description:
+      'Yume is a user-friendly platform that helps people store, organize, and share their wish lists with friends and family, allowing them to easily keep track of their desired items and receive thoughtful gifts on special occasions.',
+    href: 'https://milista.xyz/'
+  },
+  {
+    title: 'nwe: a git with superpowers',
+    description:
+      'CLI (Command Line Interface) based on git but with super powers. The goal is to group and simplify commands to make working with git & github easier and faster',
+    technologies: ['Javascript', 'Node.js', 'Git', 'Github', 'CLI', 'Jest', 'JSDoc'],
+    href: 'https://github.com/gagocarrilloedgar/nwe'
+  },
+
+  {
     title: 'Serverless gym API',
-    description: `API developed with Node.js, Express, 
-    and MySQL using Serverless framework and AWS Lambda, 
+    description: `API developed with Node.js, Express,
+    and MySQL using Serverless framework and AWS Lambda,
     the Goole API and Nodemailer for the mailing service and S3
-     Buckets for the storage. The objective of serverless was to create a 
+     Buckets for the storage. The objective of serverless was to create a
      scalable fast and cheap API.`,
     technologies: [
       'AWS',
@@ -42,15 +90,8 @@ const projectsData = [
     ]
   },
   {
-    title: 'Yoga Platform MVP',
-    description: `The project objective was to develop a simple MVP 
-    for a Yoga Startup called myYogaClass. It had to allow users to book, 
-    cancel and pay for classes. The project was developed with React, CSS Modules & MongoDB`,
-    technologies: ['React', 'CSS Modules', 'MongoDB', 'Javascript', 'HTML', 'Redux', 'Stripe']
-  },
-  {
     title: 'Coinbase API - Web App',
-    description: `Project for a Swedish company 
+    description: `Project for a Swedish company
     that wanted to develop a web app to allow their users and merchants to pay and receive money in realtime
     using the coinbase API. This was a full-stack project with React, Nest.js, & MongoDB.`,
     technologies: [
@@ -67,29 +108,16 @@ const projectsData = [
       'Serverless',
       'Figma',
       'AWS-Amplify'
-    ]
-  },
-  {
-    title: 'Nodem security',
-    description:
-      'Mobile MVP to a german bike company to develop a simple security system  (with a UI for the users) for their bikes using Flutter, Node.js & PostgreSQL',
-    technologies: [
-      'Flutter',
-      'Node.js',
-      'Express',
-      'PostgreSQL',
-      'Javascript',
-      'Redux',
-      'Passport',
-      'Azure'
-    ]
+    ],
+    href: 'https://github.com/gagocarrilloedgar/cachepay-api'
   },
   {
     title: 'Student notes management platform',
-    description: `A simple HTML,CSS,JS AND PHP project 
-    to allow the university city council 
+    description: `A simple HTML,CSS,JS AND PHP project
+    to allow the university city council
     easilly manage ans share student notes, projects and other documents. It was transformed from a simple raspberry pi file-server to a cloud hosted web-app.`,
-    technologies: ['HTML', 'CSS', 'JS', 'PHP', 'Google-API']
+    technologies: ['HTML', 'CSS', 'JS', 'PHP', 'Google-API'],
+    href: 'https://hermesdele.github.io/Web/index.html'
   }
 ]
 

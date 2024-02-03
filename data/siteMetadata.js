@@ -1,6 +1,6 @@
 const siteMetadata = {
-  title: "Edgar's amazing blog",
-  author: 'NUWE',
+  title: "Edgar's blog and portfolio",
+  author: 'Eddgar Gago Carrillo',
   headerTitle: '',
   description:
     "👋  Hey welcome to my journey. Here you'll find my code snippets, my thoughts, and my tech journey.",
@@ -12,7 +12,7 @@ const siteMetadata = {
   image: '/static/images/edgar.png',
   socialBanner: '/static/images/twitter-card.png',
   linkedinBanner: '/static/images/linkedin-share.png',
-  email: 'edgar@nuwe.io',
+  email: 'readme.edgar@gmail.com',
   github: 'https://github.com/gagocarrilloedgar',
   twitter: 'https://twitter.com/edgar_md',
   linkedin: 'https://www.linkedin.com/company/edgargagocarrillo',

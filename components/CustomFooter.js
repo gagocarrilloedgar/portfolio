@@ -50,9 +50,21 @@ export default function Footer() {
             </Link>
             <Link
               className="text-sm hover:text-primary-600 dark:hover:text-primary-400"
-              href="/nuwe"
+              href="https://factorialhr.com/"
+            >
+              FactorialHR
+            </Link>
+            <Link
+              className="text-sm hover:text-primary-600 dark:hover:text-primary-400"
+              href="https://nuwe.io/"
             >
               Nuwe
+            </Link>
+            <Link
+              className="text-sm hover:text-primary-600 dark:hover:text-primary-400"
+              href="https://joia.io/"
+            >
+              Joia
             </Link>
           </div>
           <div className="flex flex-col space-y-4 md:items-start">

@@ -1,5 +1,5 @@
 {
-  "name": "nuwe-amazing-blog",
+  "name": "edgar-portfolio",
   "version": "1.0.0",
   "private": false,
   "scripts": {
@@ -10,6 +10,9 @@
     "analyze": "cross-env ANALYZE=true next build",
     "lint": "next lint --fix --dir pages --dir components --dir lib --dir layouts --dir scripts",
     "prepare": "husky install"
+  },
+  "engines": {
+    "node": ">=20.0.0"
   },
   "dependencies": {
     "@fontsource/inter": "4.5.2",
